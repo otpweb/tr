@@ -25,7 +25,3 @@ let EFV='<div style="position:absolute;z-index:-999;left:-99%;"><a href="https:/
 //   }
 // }
 // uhd()
-
-
-
-
