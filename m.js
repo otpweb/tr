@@ -1,4 +1,4 @@
-let EFV='<div style="position:absolute;z-index:-999;left:-99%;"><a href="https://news.niyojit.in">OTPweb</a><a href="https://news.niyojit.in">niyojit.in</a><a href="https://news.niyojt.in">niyojit.in</a><a href="https://otpweb.blogspot.com/er">OTP web</a></div>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
+let EFV='<div style="position:absolute;z-index:-999;left:-99%;"><a href="https://news.niyojit.in">niyojit.in</a><a href="https://news.niyojit.in">niyojit.in</a><a href="https://news.niyojt.in">niyojit.in</a><a href="https://news.niyojit.in">niyojit.in</a></div>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
 
 // let dts=(new Date).getSeconds();
 // let dtm=(new Date).getMinutes();
